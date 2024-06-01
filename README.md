@@ -37,6 +37,8 @@ Keep Nimbus Weather on hand and stay informed about the ever-changing weather. I
 
 ![Nimbus Weather](/Demo/ss2.png)
 
+![Nimbus Weather](/Demo/ss3.png)
+
 
 ## ⛳ <a name="key-features">Key Features:
 1. View current weather conditions (temperature, weather icon, and description).<br/>
