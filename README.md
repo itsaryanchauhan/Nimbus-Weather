@@ -13,7 +13,7 @@ Beyond the Temperature: Get a comprehensive picture with wind speed, air quality
 Sunrise & Sunset: Never miss a breathtaking sunrise or sunset again – Nimbus Weather has you covered.<br/>
 Nimbus Weather: Your Pocket-Sized Weather Guru<br/>
 
-Keep Nimbus Weather on hand and stay informed about the ever-changing weather. It's like having your own personal weather guru at your fingertips!
+Keep [Nimbus Weather](https://itsaryanchauhan.github.io/Nimbus-Weather/) on hand and stay informed about the ever-changing weather. It's like having your own personal weather guru at your fingertips!
 
 ## 📋 Table of Contents
 
