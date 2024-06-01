@@ -31,6 +31,12 @@ Keep Nimbus Weather on hand and stay informed about the ever-changing weather. I
 
 ## 🚀 <a name="product-demo">Product Demo
 
+#Screenshots:
+
+![Nimbus Weather](/Demo/ss1.png)
+![Nimbus Weather](/Demo/ss2.png)
+
+
 ## ⛳ <a name="key-features">Key Features:
 1. View current weather conditions (temperature, weather icon, and description).<br/>
 2. Get a 5-day weather forecast.<br/>
