@@ -54,7 +54,12 @@ Keep [Nimbus Weather](https://itsaryanchauhan.github.io/Nimbus-Weather/) on hand
 ## 👾 <a name="installation">Installation
 
 1. Clone the repository or download the project files to your local machine.
-2. Open `index.html` in your web browser.
+  ```
+  git clone https://github.com/itsaryanchauhan/Nimbus-Weather.git
+  cd Nimbus-Weather
+  ```
+2. Open `index.html` in VS Code
+   Right Click anywhere in the code and CLick `Open With Live Server` 
 
 
 ## 🏆 <a name="functionality">Functionality
