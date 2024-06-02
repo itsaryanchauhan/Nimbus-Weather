@@ -39,6 +39,13 @@ Keep [Nimbus Weather](https://itsaryanchauhan.github.io/Nimbus-Weather/) on hand
 
 ![Nimbus Weather](/Demo/ss3.png)
 
+#Demo:
+
+https://github.com/itsaryanchauhan/Nimbus-Weather/assets/146752682/8f4928c1-052f-4d10-895c-0efa5ca42dbf
+
+
+
+
 
 ## ⛳ <a name="key-features">Key Features:
 1. View current weather conditions (temperature, weather icon, and description).<br/>
