@@ -221,6 +221,30 @@ section{
     }
 }
 
+/* prakshark */
+.darkModeButtonClass{
+    color: white;
+    background-color: #478b52;
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all .55s ease;
+    padding: 4px;
+    border-radius: 8px;
+    border: 2px solid #478b52;
+    box-shadow: #133917 2px 2px 2px 2px;
+}
+
+.darkModeButtonClass:hover {
+    border-bottom: 2px solid #0aef30;
+    scale: 1.2;
+}
+
+.darkModeCSS{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,0,0,1) 59%, rgba(0,255,16,1) 100%);
+    color: aquamarine;
+}
+
 
 
 
